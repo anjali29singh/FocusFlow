@@ -1,0 +1,15 @@
+#navbar {
+  display: flex;
+  align-items: center;
+  height: 35px;
+  padding-top: 20px;
+}
+
+#options {
+  display: flex;
+  align-items: center;
+}
+
+#settings {
+  margin-left: auto;
+}
