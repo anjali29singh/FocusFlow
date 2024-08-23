@@ -119,7 +119,7 @@ const SettingsMenu = () => {
 
       <div id="settings-footer">
         <a
-          href="https://github.com/Zen-Focus/Zen-Focus-Web"
+          href="https://github.com/anjali29singh/FocusFlow"
           target="_blank"
           rel="noopener noreferrer"
           className="settings-link"
