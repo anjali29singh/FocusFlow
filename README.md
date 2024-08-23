@@ -26,7 +26,7 @@ The Pomodoro timer allows you to customize the duration of your work sessions an
 
 Focus Flow is built to minimize interruptions while keeping you on track. A gentle chime signals the end of each session or break, but the next cycle will only begin when you're ready. If you need to skip ahead, a skip button is conveniently located at the bottom right of the screen.
 
-![Focus Flow Timer](/home/anjali/projects/FocusFlow/assets/functional.png)
+![Focus Flow Timer](https://github.com/anjali29singh/FocusFlow/blob/master/assets/functional.png)
 
 ### Breathing Meditation
 
