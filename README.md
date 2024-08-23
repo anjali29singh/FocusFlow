@@ -8,6 +8,7 @@
 </p>
 
 ## Table of Contents
+
 - [Overview](#overview)
 - [Technical Details](#technical-details)
 - [Contributing](#contributing)
@@ -25,7 +26,7 @@ The Pomodoro timer allows you to customize the duration of your work sessions an
 
 Focus Flow is built to minimize interruptions while keeping you on track. A gentle chime signals the end of each session or break, but the next cycle will only begin when you're ready. If you need to skip ahead, a skip button is conveniently located at the bottom right of the screen.
 
-![Focus Flow Timer]()
+![Focus Flow Timer](/home/anjali/projects/FocusFlow/assets/functional.png)
 
 ### Breathing Meditation
 
@@ -54,7 +55,6 @@ Focus Flow also includes a selection of ambient soundscapes that you can layer a
 1. Clone the [repository](https://github.com/Focus-Flow/Focus-Flow-Web).
 2. Install the necessary packages with `npm install`.
 3. Start the application using `npm start`.
-
 
 ## Contributing
 
